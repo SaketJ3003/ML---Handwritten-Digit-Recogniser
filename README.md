@@ -51,4 +51,12 @@ python mnist_digit_recognizer.py
 
 ## Results and Applications
 - The trained model can recognize handwritten digits with high accuracy.
-- Applications include handwritten document recognition, digit classification in financial systems, and OCR development.
+- Applications include handwritten document recognition, digit classification in financial systems, and OCR development
+
+
+
+
+
+
+https://github.com/user-attachments/assets/8520210a-45fa-4d88-a7f0-d3eededc86ec
+
